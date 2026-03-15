@@ -2386,11 +2386,11 @@
   "variable": [
     {
       "key": "tokenExpiresAt",
-      "value": 1773546267944
+      "value": ""
     },
     {
       "key": "token",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NCwidXNlcm5hbWUiOiJqYW1lc2QiLCJlbWFpbCI6ImphbWVzLmRhdmlzQHguZHVtbXlqc29uLmNvbSIsImZpcnN0TmFtZSI6IkphbWVzIiwibGFzdE5hbWUiOiJEYXZpcyIsImdlbmRlciI6Im1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2phbWVzZC8xMjgiLCJpYXQiOjE3NzM1NDQ0NjgsImV4cCI6MTc3MzU0NjI2OH0.Q8Xo_9KYoQE49I6EQJnxa15qh8AXp9UaS4CrdifBo9A"
+      "value": ""
     }
   ]
 }
